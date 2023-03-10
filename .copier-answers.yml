@@ -1,0 +1,10 @@
+# Changes here will be overwritten by Copier
+_commit: v1.0.4
+_src_path: gh:myrontuttle/python-copier-template
+author_email: myrongt@gmail.com
+author_name: Myron Tuttle
+minimal_python_version: '3.9'
+package_name: steno
+project_description: Meeting recording transcriber
+project_name: steno
+software_license: MIT License
